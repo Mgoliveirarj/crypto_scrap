@@ -1,2 +1,5 @@
 ^cryptoscrap\.Rproj$
 ^\.Rproj\.user$
+index.Rmd
+index.html
+^\.github$
